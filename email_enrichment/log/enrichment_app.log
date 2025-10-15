@@ -1,0 +1,650 @@
+2025-10-15 16:32:19 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:20 [INFO] Loading EnrichmentEngine...
+2025-10-15 16:32:20 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 16:32:20 [INFO] Output folder checked/created.
+2025-10-15 16:32:36 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:36 [INFO] Output folder checked/created.
+2025-10-15 16:32:36 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 16:32:36 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 16:32:36 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:32:36 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 16:32:40 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:40 [INFO] Output folder checked/created.
+2025-10-15 16:32:44 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:44 [INFO] Output folder checked/created.
+2025-10-15 16:32:49 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:49 [INFO] Output folder checked/created.
+2025-10-15 16:32:52 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:32:52 [INFO] Output folder checked/created.
+2025-10-15 16:32:52 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 16:32:52 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 16:32:52 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:32:52 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 16:32:52 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 16:32:52 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 16:32:52 [INFO] Found 19 emails in the file.
+2025-10-15 16:32:52 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 16:32:59 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Meekness', 'company_domain': 'meekness.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:32:59 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 16:33:01 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Net', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:33:01 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 16:33:13 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Co', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:33:13 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 16:33:15 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:33:15 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 16:33:17 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Net', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:33:17 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 16:33:21 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:21 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 16:33:21 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:33:21 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 16:33:25 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:25 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 16:33:25 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:33:25 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 16:33:36 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:36 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 16:33:39 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:39 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 16:33:41 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 16:33:41 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 16:33:41 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:33:41 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 16:33:42 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:42 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 16:33:43 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:33:43 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 16:33:45 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:33:45 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 16:34:03 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:34:03 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 16:34:03 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:34:03 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 16:34:10 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:34:10 [INFO] Batch enrichment completed in 77.7 seconds.
+2025-10-15 16:34:10 [INFO] Batch Excel file prepared for download.
+2025-10-15 16:34:38 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:34:38 [INFO] Output folder checked/created.
+2025-10-15 16:35:42 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 16:35:42 [INFO] Output folder checked/created.
+2025-10-15 16:35:42 [INFO] Single email entered: xotor62255@modirosa.com
+2025-10-15 16:35:42 [INFO] Starting enrichment for xotor62255@modirosa.com
+2025-10-15 16:35:45 [INFO] Result: {'email': 'xotor62255@modirosa.com', 'email_domain': 'modirosa.com', 'domain_type': 'Company/Business', 'likely_person': 'Xotor', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Modirosa', 'company_domain': 'modirosa.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:35:45 [INFO] Excel file prepared for xotor62255@modirosa.com.
+2025-10-15 16:35:45 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 16:35:45 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 16:35:45 [INFO] Found 19 emails in the file.
+2025-10-15 16:35:45 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 16:35:50 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Meekness', 'company_domain': 'meekness.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:35:50 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 16:35:52 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Net', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:35:52 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 16:36:01 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Co', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:36:01 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 16:36:02 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:36:02 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 16:36:04 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Net', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:36:04 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 16:36:17 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:17 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 16:36:17 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:36:17 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 16:36:22 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:22 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 16:36:22 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:36:22 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 16:36:32 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:32 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 16:36:35 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:35 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 16:36:37 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 16:36:37 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 16:36:37 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 16:36:37 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 16:36:38 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:38 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 16:36:39 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:39 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 16:36:41 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:36:41 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 16:36:52 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 16:36:52 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 16:36:53 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:53 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 16:36:58 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 16:36:59 [INFO] Batch enrichment completed in 73.3 seconds.
+2025-10-15 16:36:59 [INFO] Batch Excel file prepared for download.
+2025-10-15 17:29:36 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:29:38 [INFO] Loading EnrichmentEngine...
+2025-10-15 17:29:40 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 17:29:40 [INFO] Output folder checked/created.
+2025-10-15 17:29:48 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:29:48 [INFO] Output folder checked/created.
+2025-10-15 17:29:48 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 17:29:48 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 17:30:20 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:30:20 [INFO] Output folder checked/created.
+2025-10-15 17:36:00 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:36:00 [INFO] Output folder checked/created.
+2025-10-15 17:36:14 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:36:14 [INFO] Output folder checked/created.
+2025-10-15 17:36:14 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 17:36:14 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 17:44:31 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:44:32 [INFO] Loading EnrichmentEngine...
+2025-10-15 17:44:34 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 17:44:34 [INFO] Output folder checked/created.
+2025-10-15 17:44:41 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:44:41 [INFO] Output folder checked/created.
+2025-10-15 17:44:41 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 17:44:41 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 17:44:56 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 17:44:57 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 17:45:04 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:45:04 [INFO] Output folder checked/created.
+2025-10-15 17:45:04 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 17:45:04 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 17:45:08 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:45:08 [INFO] Output folder checked/created.
+2025-10-15 17:45:19 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 17:45:19 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 17:46:27 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:46:27 [INFO] Output folder checked/created.
+2025-10-15 17:46:27 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 17:46:27 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 17:46:33 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 17:46:33 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 17:55:07 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:08 [INFO] Loading EnrichmentEngine...
+2025-10-15 17:55:10 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 17:55:10 [INFO] Output folder checked/created.
+2025-10-15 17:55:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:12 [INFO] Output folder checked/created.
+2025-10-15 17:55:12 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 17:55:12 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 17:55:12 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free webmail (Google)', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 17:55:13 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:13 [INFO] Output folder checked/created.
+2025-10-15 17:55:13 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 17:55:15 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:15 [INFO] Output folder checked/created.
+2025-10-15 17:55:15 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 17:55:16 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 17:55:21 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 17:55:21 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 17:55:22 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:22 [INFO] Output folder checked/created.
+2025-10-15 17:55:44 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:55:44 [INFO] Output folder checked/created.
+2025-10-15 17:55:44 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 17:55:44 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 17:55:49 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business', 'likely_person': 'N/A', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 17:55:49 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 17:58:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:12 [INFO] Loading EnrichmentEngine...
+2025-10-15 17:58:14 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 17:58:14 [INFO] Output folder checked/created.
+2025-10-15 17:58:14 [INFO] Output folder checked/created.
+2025-10-15 17:58:14 [INFO] Output folder checked/created.
+2025-10-15 17:58:14 [INFO] Output folder checked/created.
+2025-10-15 17:58:17 [INFO] Output folder checked/created.
+2025-10-15 17:58:51 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 17:58:51 [INFO] Output folder checked/created.
+2025-10-15 17:58:51 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 17:58:51 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 17:58:56 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 17:58:56 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:22:18 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:22:20 [INFO] Loading EnrichmentEngine...
+2025-10-15 20:22:20 [INFO] loading projection weights from C:\Users\ankit/gensim-data\fasttext-wiki-news-subwords-300\fasttext-wiki-news-subwords-300.gz
+2025-10-15 20:22:29 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:23:00 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:26:10 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:27:03 [INFO] KeyedVectors lifecycle event {'msg': 'loaded (999999, 300) matrix of type float32 from C:\\Users\\ankit/gensim-data\\fasttext-wiki-news-subwords-300\\fasttext-wiki-news-subwords-300.gz', 'binary': False, 'encoding': 'utf8', 'datetime': '2025-10-15T20:27:03.091426', 'gensim': '4.3.1', 'python': '3.10.0 | packaged by conda-forge | (default, Nov 10 2021, 13:20:59) [MSC v.1916 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'load_word2vec_format'}
+2025-10-15 20:27:03 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 20:27:03 [INFO] Output folder checked/created.
+2025-10-15 20:27:03 [INFO] Output folder checked/created.
+2025-10-15 20:27:03 [INFO] Output folder checked/created.
+2025-10-15 20:27:03 [INFO] Output folder checked/created.
+2025-10-15 20:27:21 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:27:21 [INFO] Output folder checked/created.
+2025-10-15 20:27:21 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 20:27:21 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 20:27:21 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:27:22 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 20:28:00 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:28:00 [INFO] Output folder checked/created.
+2025-10-15 20:28:00 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:28:00 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:28:05 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:28:05 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:33:26 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:33:26 [INFO] Output folder checked/created.
+2025-10-15 20:33:26 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:33:26 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:33:28 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:33:28 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:33:28 [INFO] Uploaded file: test_emails1.csv
+2025-10-15 20:33:28 [INFO] File read successfully: test_emails1.csv
+2025-10-15 20:33:28 [WARNING] Uploaded file missing 'Email' column.
+2025-10-15 20:33:32 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:33:32 [INFO] Output folder checked/created.
+2025-10-15 20:33:32 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:33:32 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:33:33 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:33:33 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:35:04 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:35:04 [INFO] Output folder checked/created.
+2025-10-15 20:35:04 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:35:04 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:35:06 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:35:06 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:35:06 [INFO] Uploaded file: test_emails1.csv
+2025-10-15 20:35:06 [INFO] File read successfully: test_emails1.csv
+2025-10-15 20:35:06 [INFO] Found 10 emails in the file.
+2025-10-15 20:35:06 [INFO] Enriching email 1/10: alice.marketing@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'alice.marketing@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Alice Marketing', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 2/10: bob.developer@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'bob.developer@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Bob Developer', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 3/10: charlie.hr@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'charlie.hr@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Charlie Hr', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 4/10: david.finance@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'david.finance@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'David Finance', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 5/10: emma.research@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'emma.research@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Emma Research', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 6/10: frank.sales@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'frank.sales@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Frank Sales', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 7/10: grace.analytics@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'grace.analytics@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Grace Analytics', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 8/10: henry.support@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'henry.support@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Henry Support', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 9/10: isabella.consulting@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'isabella.consulting@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Isabella Consulting', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Enriching email 10/10: jack.engineering@gmail.com
+2025-10-15 20:35:07 [INFO] Result: {'email': 'jack.engineering@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Jack Engineering', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:35:07 [INFO] Batch enrichment completed in 0.7 seconds.
+2025-10-15 20:35:07 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:35:31 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:35:31 [INFO] Output folder checked/created.
+2025-10-15 20:35:31 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:35:32 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:35:34 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:35:34 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:35:49 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:35:49 [INFO] Output folder checked/created.
+2025-10-15 20:35:49 [INFO] Single email entered: elon.musk@tesla.com
+2025-10-15 20:35:50 [INFO] Starting enrichment for elon.musk@tesla.com
+2025-10-15 20:35:52 [INFO] Result: {'email': 'elon.musk@tesla.com', 'email_domain': 'tesla.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Elon Musk', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Electric Cars, Solar & Clean Energy | Tesla', 'company_domain': 'tesla.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:35:52 [INFO] Excel file prepared for elon.musk@tesla.com.
+2025-10-15 20:35:52 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 20:35:52 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 20:35:52 [INFO] Found 19 emails in the file.
+2025-10-15 20:35:52 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 20:35:54 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'meekness.com\xa0-\xa0This website is for sale!\xa0-\xa0Webarchive Resources and Information.', 'company_domain': 'meekness.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:35:54 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 20:35:58 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:35:58 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 20:36:09 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Telkomsel', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:36:09 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 20:36:10 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:36:10 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 20:36:10 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:36:10 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 20:36:13 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:13 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 20:36:13 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:36:13 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 20:36:16 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:16 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 20:36:16 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:36:16 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 20:36:25 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:25 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 20:36:28 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:28 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 20:36:29 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 20:36:29 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 20:36:29 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:36:29 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 20:36:31 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:31 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 20:36:32 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:32 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 20:36:33 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:36:33 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 20:36:50 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:36:50 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 20:36:51 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:51 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 20:36:57 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:36:57 [INFO] Batch enrichment completed in 65.0 seconds.
+2025-10-15 20:36:57 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:38:22 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:38:22 [INFO] Output folder checked/created.
+2025-10-15 20:38:22 [INFO] Single email entered: indiaportal[at]gov.in
+2025-10-15 20:38:23 [INFO] Starting enrichment for indiaportal[at]gov.in
+2025-10-15 20:38:23 [INFO] Result: {'email': 'indiaportal[at]gov.in', 'error': 'Invalid email format'}
+2025-10-15 20:38:23 [ERROR] Error enriching indiaportal[at]gov.in: Invalid email format
+2025-10-15 20:38:23 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 20:38:23 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 20:38:23 [INFO] Found 19 emails in the file.
+2025-10-15 20:38:23 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 20:38:24 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'meekness.com\xa0-\xa0This website is for sale!\xa0-\xa0Webarchive Resources and Information.', 'company_domain': 'meekness.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:24 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 20:38:25 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:25 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 20:38:29 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Telkomsel', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:29 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 20:38:29 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:29 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 20:38:30 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:30 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 20:38:31 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:31 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 20:38:31 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:38:31 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 20:38:33 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:33 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 20:38:33 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:38:33 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 20:38:37 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:37 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 20:38:38 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:38 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 20:38:38 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 20:38:38 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 20:38:38 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:38:38 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 20:38:39 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:39 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 20:38:40 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:40 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 20:38:40 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:40 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 20:38:46 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:46 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 20:38:47 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:47 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 20:38:50 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:50 [INFO] Batch enrichment completed in 27.2 seconds.
+2025-10-15 20:38:50 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:38:56 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:38:56 [INFO] Output folder checked/created.
+2025-10-15 20:38:56 [INFO] Single email entered: indiaportal[at]gov[dot]in
+2025-10-15 20:38:56 [INFO] Starting enrichment for indiaportal[at]gov[dot]in
+2025-10-15 20:38:57 [INFO] Result: {'email': 'indiaportal[at]gov[dot]in', 'error': 'Invalid email format'}
+2025-10-15 20:38:57 [ERROR] Error enriching indiaportal[at]gov[dot]in: Invalid email format
+2025-10-15 20:38:57 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 20:38:57 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 20:38:57 [INFO] Found 19 emails in the file.
+2025-10-15 20:38:57 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 20:38:58 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'meekness.com\xa0-\xa0This website is for sale!\xa0-\xa0Webarchive Resources and Information.', 'company_domain': 'meekness.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:38:58 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 20:38:58 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:38:59 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 20:39:02 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Telkomsel', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:39:02 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 20:39:03 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:39:03 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 20:39:03 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:39:03 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 20:39:05 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:05 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 20:39:05 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:39:05 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 20:39:08 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:08 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 20:39:08 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:39:08 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 20:39:12 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:13 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 20:39:14 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:14 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 20:39:14 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 20:39:14 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 20:39:14 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:39:14 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 20:39:15 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:15 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 20:39:16 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:16 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 20:39:16 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:39:16 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 20:39:22 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:39:22 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 20:39:22 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:22 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 20:39:25 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:39:26 [INFO] Batch enrichment completed in 28.8 seconds.
+2025-10-15 20:39:26 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:40:38 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:40:38 [INFO] Output folder checked/created.
+2025-10-15 20:40:38 [INFO] Single email entered: info@ethara.ai
+2025-10-15 20:40:38 [INFO] Starting enrichment for info@ethara.ai
+2025-10-15 20:40:44 [INFO] Result: {'email': 'info@ethara.ai', 'email_domain': 'ethara.ai', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Info', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Ethara AI', 'company_domain': 'ethara.ai', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:40:44 [INFO] Excel file prepared for info@ethara.ai.
+2025-10-15 20:40:44 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 20:40:44 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 20:40:44 [INFO] Found 19 emails in the file.
+2025-10-15 20:40:44 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 20:40:45 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'meekness.com\xa0-\xa0This website is for sale!\xa0-\xa0Webarchive Resources and Information.', 'company_domain': 'meekness.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:40:45 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 20:40:45 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:40:45 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 20:40:49 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Telkomsel', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:40:49 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 20:40:50 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:40:50 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 20:40:50 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:40:50 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 20:40:51 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:40:51 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 20:40:51 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:40:51 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 20:40:54 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:40:54 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 20:40:54 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:40:54 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 20:40:58 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:40:58 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 20:41:00 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:00 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 20:41:00 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 20:41:00 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 20:41:00 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:41:00 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 20:41:01 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:01 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 20:41:02 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:02 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 20:41:02 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:02 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 20:41:08 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:08 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 20:41:08 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:08 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 20:41:11 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:11 [INFO] Batch enrichment completed in 27.5 seconds.
+2025-10-15 20:41:12 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:41:26 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:41:26 [INFO] Output folder checked/created.
+2025-10-15 20:41:27 [INFO] Single email entered: 22et10an368@mitsgwl.ac.in
+2025-10-15 20:41:27 [INFO] Starting enrichment for 22et10an368@mitsgwl.ac.in
+2025-10-15 20:41:32 [INFO] Result: {'email': '22et10an368@mitsgwl.ac.in', 'email_domain': 'mitsgwl.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Et An', 'related_university': 'University (mitsgwl.ac.in)', 'university_domain': 'mitsgwl.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Medium', 'company': 'Low'}}
+2025-10-15 20:41:32 [INFO] Excel file prepared for 22et10an368@mitsgwl.ac.in.
+2025-10-15 20:41:32 [INFO] Uploaded file: Email_list.csv.xlsx
+2025-10-15 20:41:32 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 20:41:32 [INFO] Found 19 emails in the file.
+2025-10-15 20:41:32 [INFO] Enriching email 1/19: stone@meekness.com
+2025-10-15 20:41:33 [INFO] Result: {'email': 'stone@meekness.com', 'email_domain': 'meekness.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Stone', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'meekness.com\xa0-\xa0This website is for sale!\xa0-\xa0Webarchive Resources and Information.', 'company_domain': 'meekness.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:33 [INFO] Enriching email 2/19: ca-tech@dps.centrin.net.id
+2025-10-15 20:41:33 [INFO] Result: {'email': 'ca-tech@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Ca Tech', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:33 [INFO] Enriching email 3/19: trinanda_lestyowati@telkomsel.co.id
+2025-10-15 20:41:37 [INFO] Result: {'email': 'trinanda_lestyowati@telkomsel.co.id', 'email_domain': 'telkomsel.co.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Trinanda Lestyowati', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Telkomsel', 'company_domain': 'telkomsel.co.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:37 [INFO] Enriching email 4/19: asst_dos@astonrasuna.com
+2025-10-15 20:41:37 [INFO] Result: {'email': 'asst_dos@astonrasuna.com', 'email_domain': 'astonrasuna.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Asst Dos', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Astonrasuna', 'company_domain': 'astonrasuna.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:37 [INFO] Enriching email 5/19: amartabali@dps.centrin.net.id
+2025-10-15 20:41:38 [INFO] Result: {'email': 'amartabali@dps.centrin.net.id', 'email_domain': 'dps.centrin.net.id', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Amartabali', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Centrin', 'company_domain': 'dps.centrin.net.id', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:38 [INFO] Enriching email 6/19: achatv@cbn.net.id
+2025-10-15 20:41:39 [INFO] Result: {'email': 'achatv@cbn.net.id', 'email_domain': 'cbn.net.id', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Achatv', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'CBN', 'company_domain': 'cbn.net.id', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:39 [INFO] Enriching email 7/19: Ankitmahule88@gmail.com
+2025-10-15 20:41:39 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:41:39 [INFO] Enriching email 8/19: karan.sahoo@gravityer.com
+2025-10-15 20:41:41 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:41 [INFO] Enriching email 9/19: accabhinaw3906@gmail.com
+2025-10-15 20:41:41 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:41:41 [INFO] Enriching email 10/19: vikram.rajput@mitsgwalior.in
+2025-10-15 20:41:45 [INFO] Result: {'email': 'vikram.rajput@mitsgwalior.in', 'email_domain': 'mitsgwalior.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Vikram Rajput', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Home - MITS Gwalior', 'company_domain': 'mitsgwalior.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:45 [INFO] Enriching email 11/19: notifications@joinsuperset.com
+2025-10-15 20:41:47 [INFO] Result: {'email': 'notifications@joinsuperset.com', 'email_domain': 'joinsuperset.com', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Notifications', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Superset - The Official University Recruitment Platform', 'company_domain': 'joinsuperset.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:47 [INFO] Enriching email 12/19: noreply-gate2026@iitg.ac.in
+2025-10-15 20:41:47 [INFO] Result: {'email': 'noreply-gate2026@iitg.ac.in', 'email_domain': 'iitg.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Noreply Gate', 'related_university': 'Indian Institute of Technology Guwahati (IIT Guwahati)', 'university_domain': 'iitg.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 20:41:47 [INFO] Enriching email 13/19: gowthamnetworktcn9@gmail.com
+2025-10-15 20:41:47 [INFO] Result: {'email': 'gowthamnetworktcn9@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Gowthamnetworktcn', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 20:41:47 [INFO] Enriching email 14/19: swaraj@labmentix.in
+2025-10-15 20:41:47 [INFO] Result: {'email': 'swaraj@labmentix.in', 'email_domain': 'labmentix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Swaraj', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships & Career Programs for Students, LabMentix', 'company_domain': 'labmentix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:47 [INFO] Enriching email 15/19: student@internshala.com
+2025-10-15 20:41:48 [INFO] Result: {'email': 'student@internshala.com', 'email_domain': 'internshala.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Student', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Internships | Jobs | Trainings & Placement Courses | Post a Job', 'company_domain': 'internshala.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:48 [INFO] Enriching email 16/19: noreplyunionbank@unionbankofindia.com
+2025-10-15 20:41:48 [INFO] Result: {'email': 'noreplyunionbank@unionbankofindia.com', 'email_domain': 'unionbankofindia.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Noreplyunionbank', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Unionbankofindia', 'company_domain': 'unionbankofindia.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:48 [INFO] Enriching email 17/19: vanya@newsletters.analyticsvidhya.com
+2025-10-15 20:41:53 [INFO] Result: {'email': 'vanya@newsletters.analyticsvidhya.com', 'email_domain': 'newsletters.analyticsvidhya.com', 'domain_type': 'Company/Business (60% confidence)', 'likely_person': 'Vanya', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Analyticsvidhya', 'company_domain': 'newsletters.analyticsvidhya.com', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 20:41:53 [INFO] Enriching email 18/19: placement.interns714@webboostsolutions.in
+2025-10-15 20:41:54 [INFO] Result: {'email': 'placement.interns714@webboostsolutions.in', 'email_domain': 'webboostsolutions.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Placement Interns', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'WebBoost Solutions - Innovative & Future-Ready IT Services', 'company_domain': 'webboostsolutions.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:54 [INFO] Enriching email 19/19: jobs@vedrix.in
+2025-10-15 20:41:56 [INFO] Result: {'email': 'jobs@vedrix.in', 'email_domain': 'vedrix.in', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Jobs', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Vedrixx', 'company_domain': 'vedrix.in', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:41:56 [INFO] Batch enrichment completed in 23.8 seconds.
+2025-10-15 20:41:56 [INFO] Batch Excel file prepared for download.
+2025-10-15 20:42:10 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:42:10 [INFO] Output folder checked/created.
+2025-10-15 20:42:10 [INFO] Single email entered: 22et10an368@mitsgwl.ac.in
+2025-10-15 20:42:10 [INFO] Starting enrichment for 22et10an368@mitsgwl.ac.in
+2025-10-15 20:42:10 [INFO] Result: {'email': '22et10an368@mitsgwl.ac.in', 'email_domain': 'mitsgwl.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Et An', 'related_university': 'University (mitsgwl.ac.in)', 'university_domain': 'mitsgwl.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Medium', 'company': 'Low'}}
+2025-10-15 20:42:10 [INFO] Excel file prepared for 22et10an368@mitsgwl.ac.in.
+2025-10-15 20:43:49 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:43:49 [INFO] Output folder checked/created.
+2025-10-15 20:43:49 [INFO] Single email entered: contact@Ailifebot.com
+2025-10-15 20:43:49 [INFO] Starting enrichment for contact@Ailifebot.com
+2025-10-15 20:43:51 [INFO] Result: {'email': 'contact@Ailifebot.com', 'email_domain': 'ailifebot.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Contact', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'The Best Chatbot Services, Equiped with AI, IOT & Machine Learning: AI LifeBOT', 'company_domain': 'ailifebot.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 20:43:51 [INFO] Excel file prepared for contact@Ailifebot.com.
+2025-10-15 20:45:35 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 20:45:35 [INFO] Output folder checked/created.
+2025-10-15 22:11:45 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:11:45 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:11:45 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:11:45 [INFO] Loading EnrichmentEngine...
+2025-10-15 22:11:45 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:11:45 [INFO] loading projection weights from C:\Users\ankit/gensim-data\fasttext-wiki-news-subwords-300\fasttext-wiki-news-subwords-300.gz
+2025-10-15 22:17:48 [INFO] KeyedVectors lifecycle event {'msg': 'loaded (999999, 300) matrix of type float32 from C:\\Users\\ankit/gensim-data\\fasttext-wiki-news-subwords-300\\fasttext-wiki-news-subwords-300.gz', 'binary': False, 'encoding': 'utf8', 'datetime': '2025-10-15T22:17:48.578198', 'gensim': '4.3.1', 'python': '3.10.0 | packaged by conda-forge | (default, Nov 10 2021, 13:20:59) [MSC v.1916 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'load_word2vec_format'}
+2025-10-15 22:17:49 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 22:17:49 [INFO] Output folder checked/created.
+2025-10-15 22:17:49 [INFO] Output folder checked/created.
+2025-10-15 22:17:49 [INFO] Output folder checked/created.
+2025-10-15 22:17:49 [INFO] Output folder checked/created.
+2025-10-15 22:18:36 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:18:36 [INFO] Output folder checked/created.
+2025-10-15 22:18:36 [INFO] Single email entered: 22et10an368@gmail.com
+2025-10-15 22:18:36 [INFO] Starting enrichment for 22et10an368@gmail.com
+2025-10-15 22:18:39 [INFO] Result: {'email': '22et10an368@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Et An', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 22:18:40 [INFO] Excel file prepared for 22et10an368@gmail.com.
+2025-10-15 22:20:01 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:20:01 [INFO] Output folder checked/created.
+2025-10-15 22:20:03 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:20:03 [INFO] Output folder checked/created.
+2025-10-15 22:20:03 [INFO] Single email entered: 22et10an368@gmail.com
+2025-10-15 22:20:03 [INFO] Starting enrichment for 22et10an368@gmail.com
+2025-10-15 22:20:03 [INFO] Result: {'email': '22et10an368@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Et An', 'related_university': 'N/A', 'university_domain': 'gmail.com', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 22:20:03 [INFO] Excel file prepared for 22et10an368@gmail.com.
+2025-10-15 22:20:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:20:12 [INFO] Output folder checked/created.
+2025-10-15 22:20:51 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:20:51 [INFO] Output folder checked/created.
+2025-10-15 22:20:51 [INFO] Single email entered: karan.sahoo@gravityer.com
+2025-10-15 22:20:51 [INFO] Starting enrichment for karan.sahoo@gravityer.com
+2025-10-15 22:20:57 [INFO] Result: {'email': 'karan.sahoo@gravityer.com', 'email_domain': 'gravityer.com', 'domain_type': 'Company/Business (80% confidence)', 'likely_person': 'Karan Sahoo', 'related_university': 'N/A', 'university_domain': 'N/A', 'related_company': 'Digital E-Commerce | Cloud | Marketing | AI Services - Gravity', 'company_domain': 'gravityer.com', 'sector': 'Technology', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'High'}}
+2025-10-15 22:20:57 [INFO] Excel file prepared for karan.sahoo@gravityer.com.
+2025-10-15 22:22:55 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:22:55 [INFO] Output folder checked/created.
+2025-10-15 22:22:55 [INFO] Single email entered: iitjammu.ac.in
+2025-10-15 22:22:55 [INFO] Starting enrichment for iitjammu.ac.in
+2025-10-15 22:22:55 [INFO] Result: {'email': 'iitjammu.ac.in', 'error': 'Invalid email format'}
+2025-10-15 22:22:55 [ERROR] Error enriching iitjammu.ac.in: Invalid email format
+2025-10-15 22:23:17 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:23:17 [INFO] Output folder checked/created.
+2025-10-15 22:23:17 [INFO] Single email entered: user@mit.edu
+2025-10-15 22:23:17 [INFO] Starting enrichment for user@mit.edu
+2025-10-15 22:23:18 [INFO] Result: {'email': 'user@mit.edu', 'email_domain': 'mit.edu', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'User', 'related_university': 'Massachusetts Institute of Technology', 'university_domain': 'mit.edu', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'High', 'company': 'Low'}}
+2025-10-15 22:23:18 [INFO] Excel file prepared for user@mit.edu.
+2025-10-15 22:23:59 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:23:59 [INFO] Output folder checked/created.
+2025-10-15 22:23:59 [INFO] Single email entered: teacher@somecollege.org
+2025-10-15 22:23:59 [INFO] Starting enrichment for teacher@somecollege.org
+2025-10-15 22:24:03 [INFO] Result: {'email': 'teacher@somecollege.org', 'email_domain': 'somecollege.org', 'domain_type': 'University/Educational (70% confidence)', 'likely_person': 'Teacher', 'related_university': 'University (somecollege.org)', 'university_domain': 'somecollege.org', 'related_company': 'Somecollege', 'company_domain': 'somecollege.org', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 22:24:03 [INFO] Excel file prepared for teacher@somecollege.org.
+2025-10-15 22:33:11 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:33:12 [INFO] Loading EnrichmentEngine...
+2025-10-15 22:34:04 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:34:09 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:34:18 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:35:01 [INFO] glove-twitter-100 downloaded
+2025-10-15 22:35:01 [INFO] loading projection weights from C:\Users\ankit/gensim-data\glove-twitter-100\glove-twitter-100.gz
+2025-10-15 22:36:33 [INFO] KeyedVectors lifecycle event {'msg': 'loaded (1193514, 100) matrix of type float32 from C:\\Users\\ankit/gensim-data\\glove-twitter-100\\glove-twitter-100.gz', 'binary': False, 'encoding': 'utf8', 'datetime': '2025-10-15T22:36:32.963367', 'gensim': '4.3.1', 'python': '3.10.0 | packaged by conda-forge | (default, Nov 10 2021, 13:20:59) [MSC v.1916 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'load_word2vec_format'}
+2025-10-15 22:36:33 [INFO] EnrichmentEngine loaded successfully.
+2025-10-15 22:36:33 [INFO] Output folder checked/created.
+2025-10-15 22:36:33 [INFO] Output folder checked/created.
+2025-10-15 22:36:33 [INFO] Output folder checked/created.
+2025-10-15 22:36:33 [INFO] Output folder checked/created.
+2025-10-15 22:37:01 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:37:01 [INFO] Output folder checked/created.
+2025-10-15 22:37:01 [INFO] Single email entered: 22et10an368@mitsgwl.ac.in
+2025-10-15 22:37:01 [INFO] Starting enrichment for 22et10an368@mitsgwl.ac.in
+2025-10-15 22:37:01 [INFO] Result: {'email': '22et10an368@mitsgwl.ac.in', 'email_domain': 'mitsgwl.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Et An', 'related_university': 'University (mitsgwl.ac.in)', 'university_domain': 'mitsgwl.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Medium', 'company': 'Low'}}
+2025-10-15 22:37:02 [INFO] Excel file prepared for 22et10an368@mitsgwl.ac.in.
+2025-10-15 22:37:14 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:37:14 [INFO] Output folder checked/created.
+2025-10-15 22:37:24 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:37:24 [INFO] Output folder checked/created.
+2025-10-15 22:37:24 [INFO] Single email entered: accabhinaw3906@gmail.com
+2025-10-15 22:37:25 [INFO] Starting enrichment for accabhinaw3906@gmail.com
+2025-10-15 22:37:25 [INFO] Result: {'email': 'accabhinaw3906@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Accabhinaw', 'related_university': 'N/A', 'university_domain': 'gmail.com', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 22:37:25 [INFO] Excel file prepared for accabhinaw3906@gmail.com.
+2025-10-15 22:37:29 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 22:37:29 [INFO] Output folder checked/created.
+2025-10-15 22:37:29 [INFO] Single email entered: teacher@somecollege.org
+2025-10-15 22:37:29 [INFO] Starting enrichment for teacher@somecollege.org
+2025-10-15 22:37:30 [INFO] Result: {'email': 'teacher@somecollege.org', 'email_domain': 'somecollege.org', 'domain_type': 'University/Educational (70% confidence)', 'likely_person': 'Teacher', 'related_university': 'University (somecollege.org)', 'university_domain': 'somecollege.org', 'related_company': 'Somecollege', 'company_domain': 'somecollege.org', 'sector': 'Unknown', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Medium'}}
+2025-10-15 22:37:30 [INFO] Excel file prepared for teacher@somecollege.org.
+2025-10-15 23:22:41 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:22:41 [INFO] Output folder checked/created.
+2025-10-15 23:22:56 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:22:56 [INFO] Output folder checked/created.
+2025-10-15 23:22:56 [INFO] Single email entered: Ankitmahule88@gmail.com
+2025-10-15 23:22:56 [INFO] Starting enrichment for Ankitmahule88@gmail.com
+2025-10-15 23:22:56 [INFO] Result: {'email': 'Ankitmahule88@gmail.com', 'email_domain': 'gmail.com', 'domain_type': 'Free Webmail (100% confidence)', 'likely_person': 'Ankitmahule', 'related_university': 'N/A', 'university_domain': 'gmail.com', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Low', 'company': 'Low'}}
+2025-10-15 23:22:56 [INFO] Excel file prepared for Ankitmahule88@gmail.com.
+2025-10-15 23:23:57 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:23:57 [INFO] Output folder checked/created.
+2025-10-15 23:24:12 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:24:12 [INFO] Output folder checked/created.
+2025-10-15 23:24:12 [INFO] Single email entered: banrakas@mitsgwl.ac.in
+2025-10-15 23:24:12 [INFO] Starting enrichment for banrakas@mitsgwl.ac.in
+2025-10-15 23:24:12 [INFO] Result: {'email': 'banrakas@mitsgwl.ac.in', 'email_domain': 'mitsgwl.ac.in', 'domain_type': 'University/Educational (90% confidence)', 'likely_person': 'Banrakas', 'related_university': 'University (mitsgwl.ac.in)', 'university_domain': 'mitsgwl.ac.in', 'related_company': 'N/A', 'company_domain': 'N/A', 'sector': 'Education', 'confidence': {'domain': 'High', 'university': 'Medium', 'company': 'Low'}}
+2025-10-15 23:24:12 [INFO] Excel file prepared for banrakas@mitsgwl.ac.in.
+2025-10-15 23:34:49 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:35:10 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:35:11 [INFO] Starting enrichment for jayrammpandey@ethara.com
+2025-10-15 23:35:17 [INFO] Excel file prepared for jayrammpandey@ethara.com.
+2025-10-15 23:36:08 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:36:08 [INFO] Starting enrichment for jayrammpandey@ethara.com,madhav99@gmail.com
+2025-10-15 23:36:08 [ERROR] Error enriching jayrammpandey@ethara.com,madhav99@gmail.com: Invalid email format
+2025-10-15 23:37:09 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:37:27 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:37:27 [INFO] Starting enrichment for john.doe@gmail.com
+2025-10-15 23:37:27 [INFO] Excel file prepared for john.doe@gmail.com.
+2025-10-15 23:37:56 [INFO] \U0001f4cc Application started. Logs are saved in 'log/enrichment_app.log'
+2025-10-15 23:37:56 [INFO] File read successfully: Email_list.csv.xlsx
+2025-10-15 23:39:06 [INFO] Batch Excel file prepared for download.

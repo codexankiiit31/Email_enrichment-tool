@@ -1,0 +1,94 @@
+{
+  "gmail.com": {
+    "type": "free_email",
+    "confidence": 1.0
+  },
+  "tesla.com": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "meekness.com": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "dps.centrin.net.id": {
+    "type": "company",
+    "confidence": 0.6
+  },
+  "telkomsel.co.id": {
+    "type": "company",
+    "confidence": 0.6
+  },
+  "astonrasuna.com": {
+    "type": "company",
+    "confidence": 0.6
+  },
+  "cbn.net.id": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "gravityer.com": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "mitsgwalior.in": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "joinsuperset.com": {
+    "type": "university",
+    "confidence": 0.9
+  },
+  "iitg.ac.in": {
+    "type": "university",
+    "confidence": 0.9
+  },
+  "labmentix.in": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "internshala.com": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "unionbankofindia.com": {
+    "type": "company",
+    "confidence": 0.6
+  },
+  "newsletters.analyticsvidhya.com": {
+    "type": "company",
+    "confidence": 0.6
+  },
+  "webboostsolutions.in": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "vedrix.in": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "ethara.ai": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "mitsgwl.ac.in": {
+    "type": "university",
+    "confidence": 0.9
+  },
+  "ailifebot.com": {
+    "type": "company",
+    "confidence": 0.8
+  },
+  "mit.edu": {
+    "type": "university",
+    "confidence": 0.9
+  },
+  "somecollege.org": {
+    "type": "university",
+    "confidence": 0.7
+  },
+  "ethara.com": {
+    "type": "company",
+    "confidence": 0.8
+  }
+}
