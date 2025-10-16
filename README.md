@@ -1,9 +1,7 @@
 <p align="center">
-</p>
 <h1 align="center">🦜 Data Enrichment Tool</h1>
 
 <p align="center">
-</p>
 
 ---
 
