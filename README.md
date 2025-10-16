@@ -155,7 +155,7 @@ python -m spacy download xx_ent_wiki_sm
 
 ### 5️⃣ Run the Application
 streamlit run app.py
-
+```
 Your browser will automatically open at [http://localhost:8501](http://localhost:8501).  
 If not, navigate there manually.
 
