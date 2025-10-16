@@ -1,7 +1,7 @@
 # 🦜 Email Enrichment Engine
 ---
 
-##🚀 Overview
+## 🚀 Overview
 a powerful tool that transforms any email address into actionable business intelligence. Designed for professionals, researchers, and marketers, it quickly uncovers valuable insights about people, companies, and industries.
 
 By simply pasting a single email or uploading a CSV/Excel file, you can instantly access:
