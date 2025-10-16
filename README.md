@@ -102,6 +102,39 @@ Each enriched email returns **complete metadata** in a structured JSON format:
   }
 }
 ```
+## Flow Diagram
+
+```mermaid
+graph LR
+    A["Email Input<br/>john@company.com"] --> B["Validate Email"]
+    B --> C["Split Email<br/>Username + Domain"]
+    
+    C --> D["Extract Person Name<br/>john → John"]
+    C --> E["Detect Domain Type<br/>Company/Free/Uni"]
+    C --> F["Find Company Info<br/>Scrape Website"]
+    C --> G["Extract Sector<br/>Technology/Finance"]
+    
+    D --> H["Combine Results"]
+    E --> H
+    F --> H
+    G --> H
+    
+    H --> I["Cache Results<br/>For Speed"]
+    I --> J["Return JSON<br/>with Metadata"]
+    
+    J --> K{Single or<br/>Batch?}
+    
+    K -->|Single Email| L["Display in UI<br/>Download Excel"]
+    K -->|Batch| M["Process All Emails<br/>Show Progress"]
+    
+    L --> N["End"]
+    M --> N
+    
+    style A fill:#e3f2fd
+    style J fill:#c8e6c9
+    style N fill:#f5f5f5
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
