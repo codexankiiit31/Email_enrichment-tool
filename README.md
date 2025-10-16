@@ -134,6 +134,20 @@ graph LR
     style J fill:#c8e6c9
     style N fill:#f5f5f5
 ```
+##📁 Project Structure
+email-enrichment-engine/
+├── app.py                       # Main Streamlit application
+├── email_enricher1.py           # Core enrichment engine
+├── person_name_extractor2.py    # NLP name extraction
+├── email_validator3.py          # Email validation
+├── company_finder4.py           # Company detection
+├── sector_extractor5.py         # Sector classification
+├── domain_scraper6.py           # Website scraping
+├── domain_type_detector7.py     # Domain classification
+├── requirements.txt             # Python dependencies
+├── README.md                    # Documentation
+├── .gitignore                   # Git ignore rules
+└── log/                         # Application logs
 
 ## 🚀 Getting Started
 
@@ -197,6 +211,11 @@ If not, navigate there manually.
 4. Watch the progress bar as emails are enriched.  
 5. View all results in an expandable results table.  
 6. Click **"Download Enriched Results"** to save everything as Excel.
+
+### Performance
+Single email: 2-5 seconds (network dependent)
+Batch processing: 3-5 seconds per email
+Cached lookups: <100ms (instant)
 
 ## 🎯 Use Cases
 
