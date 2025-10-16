@@ -107,28 +107,28 @@ Each enriched email returns **complete metadata** in a structured JSON format:
 
 ```mermaid
 graph LR
-    A["Email Input\njohn@company.com"] --> B["Validate Email"]
-    B --> C["Split Email\nUsername + Domain"]
+    A["<b><font color='black'>Email Input<br>john@company.com</font></b>"] --> B["<b><font color='black'>Validate Email</font></b>"]
+    B --> C["<b><font color='black'>Split Email<br>Username + Domain</font></b>"]
     
-    C --> D["Extract Person Name\njohn → John"]
-    C --> E["Detect Domain Type\nCompany / Free / University"]
-    C --> F["Find Company Info\nScrape Website"]
-    C --> G["Extract Sector\nTech / Finance / Healthcare"]
+    C --> D["<b><font color='black'>Extract Person Name<br>john → John</font></b>"]
+    C --> E["<b><font color='black'>Detect Domain Type<br>Company / Free / University</font></b>"]
+    C --> F["<b><font color='black'>Find Company Info<br>Scrape Website</font></b>"]
+    C --> G["<b><font color='black'>Extract Sector<br>Tech / Finance / Healthcare</font></b>"]
     
-    D --> H["Combine Results"]
+    D --> H["<b><font color='black'>Combine Results</font></b>"]
     E --> H
     F --> H
     G --> H
     
-    H --> I["Cache Results\nFor Speed"]
-    I --> J["Return JSON\nwith Metadata"]
+    H --> I["<b><font color='black'>Cache Results<br>For Speed</font></b>"]
+    I --> J["<b><font color='black'>Return JSON<br>with Metadata</font></b>"]
     
-    J --> K{"Single or Batch?"}
+    J --> K{"<b><font color='black'>Single or Batch?</font></b>"}
     
-    K -->|Single Email| L["Display in UI\nDownload Excel"]
-    K -->|Batch| M["Process All Emails\nShow Progress"]
+    K -->|Single Email| L["<b><font color='black'>Display in UI<br>Download Excel</font></b>"]
+    K -->|Batch| M["<b><font color='black'>Process All Emails<br>Show Progress</font></b>"]
     
-    L --> N["End"]
+    L --> N["<b><font color='black'>End</font></b>"]
     M --> N
     
     style A fill:#90caf9,stroke:#1e88e5,stroke-width:2px
