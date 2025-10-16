@@ -1,17 +1,20 @@
 # 🦜 Email Enrichment Engine
-Automatically find companies, people, and sectors from any email address.
-
+Automatically find companies, people, domain , university and sectors from any email address.
 ---
 
 ## Overview
-Turn any email address into useful business information instantly. Just paste a single email or upload a file of emails to get:
+a powerful tool that transforms any email address into actionable business intelligence. Designed for professionals, researchers, and marketers, it quickly uncovers valuable insights about people, companies, and industries.
 
-- Person's name
-- Company name
-- Business sector
-- University or free email detection
+By simply pasting a single email or uploading a CSV/Excel file, you can instantly access:
 
-Built with NLP, web scraping, and machine learning for fast and accurate results.
+- 👤 **Person's Name** – Extracted intelligently using multiple NLP and scraping strategies.  
+- 🏢 **Company Name** – Identified from the domain or official company website.  
+- 💼 **Business Sector** – Classified into Technology, Finance, Healthcare, Retail, and more.  
+- 🎓 **University or Free Email Detection** – Separates educational emails from free webmail services.  
+- 📊 **Structured Enriched Data** – Delivered in JSON or Excel for easy analysis and reporting.  
+
+
+Built with **NLP**, **web scraping**, and **machine learning**, this engine makes email enrichment fast, accurate, and reliable—perfect for data-driven decisions.
 
 ---
 
