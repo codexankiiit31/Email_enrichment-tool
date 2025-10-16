@@ -1,11 +1,4 @@
 
-<h1 align="center">🦜 Data Enrichment Tool</h1>
-
-
-
----
-
-
 # 🦜 Email Enrichment Engine: Automatically Identify Companies & People
 
 Transform any email address into enriched business intelligence. Simply paste an email (or upload a spreadsheet of emails) and instantly discover:
