@@ -134,7 +134,9 @@ graph LR
     style J fill:#c8e6c9
     style N fill:#f5f5f5
 ```
+
 ##📁 Project Structure
+```
 email-enrichment-engine/
 ├── app.py                       # Main Streamlit application
 ├── email_enricher1.py           # Core enrichment engine
@@ -148,6 +150,8 @@ email-enrichment-engine/
 ├── README.md                    # Documentation
 ├── .gitignore                   # Git ignore rules
 └── log/                         # Application logs
+
+```
 
 ## 🚀 Getting Started
 
