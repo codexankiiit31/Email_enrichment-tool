@@ -127,23 +127,32 @@ Each enriched email returns **complete metadata** in a structured JSON format:
 ```bash
 git clone <YOUR_REPOSITORY_URL>
 cd email-enrichment-engine
+
 ### 2️⃣ Create a Virtual Environment
 # Create environment
+
 python -m venv venv
+# or if you wanted a anaconda enviroemnt
+conda create -p .vnv python==3.10 -y
 
 # Activate it
+
 # On macOS/Linux:
 source venv/bin/activate
+
 # On Windows:
 venv\Scripts\activate
+
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 ### 4️⃣ Download Required NLP Models
 # English language model (required)
 python -m spacy download en_core_web_sm
 
 # Multilingual model (optional)
 python -m spacy download xx_ent_wiki_sm
+
 ### 5️⃣ Run the Application
 streamlit run app.py
 
