@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Data Enrichment Tool Logo" width="120" height="120"/>
 </p>
-
 <h1 align="center">🦜 Data Enrichment Tool</h1>
 
 <p align="center">
-  <b>AI-Powered Email Intelligence Engine</b><br>
-  Identify Companies, People & Business Sectors from Any Email
 </p>
 
 ---
