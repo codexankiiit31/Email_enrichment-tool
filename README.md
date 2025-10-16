@@ -103,7 +103,7 @@ Each enriched email returns **complete metadata** in a structured JSON format:
   }
 }
 ```
-## Flow Diagram
+## 🧭 Flow Diagram
 
 ```mermaid
 graph LR
@@ -146,9 +146,7 @@ graph LR
     style M fill:#fff59d,stroke:#fbc02d,stroke-width:2px
     style N fill:#f5f5f5,stroke:#9e9e9e,stroke-width:2px
 
-
 ```
-
 ## 📁 Project Structure
 ```
 email-enrichment-engine/
