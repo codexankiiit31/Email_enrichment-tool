@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Data Enrichment Tool" width="200"/>
+</p>
+
+<h1 align="center">🦜 Data Enrichment Tool</h1>
+<h3 align="center">AI-Powered Email Intelligence Engine</h3>
 # Data_Enrichment_Tool
 
 # 🦜 Email Enrichment Engine: Automatically Identify Companies & People
