@@ -107,33 +107,45 @@ Each enriched email returns **complete metadata** in a structured JSON format:
 
 ```mermaid
 graph LR
-    A["Email Input<br/>john@company.com"] --> B["Validate Email"]
-    B --> C["Split Email<br/>Username + Domain"]
+    A["Email Input\njohn@company.com"] --> B["Validate Email"]
+    B --> C["Split Email\nUsername + Domain"]
     
-    C --> D["Extract Person Name<br/>john → John"]
-    C --> E["Detect Domain Type<br/>Company/Free/Uni"]
-    C --> F["Find Company Info<br/>Scrape Website"]
-    C --> G["Extract Sector<br/>Technology/Finance"]
+    C --> D["Extract Person Name\njohn → John"]
+    C --> E["Detect Domain Type\nCompany / Free / University"]
+    C --> F["Find Company Info\nScrape Website"]
+    C --> G["Extract Sector\nTech / Finance / Healthcare"]
     
     D --> H["Combine Results"]
     E --> H
     F --> H
     G --> H
     
-    H --> I["Cache Results<br/>For Speed"]
-    I --> J["Return JSON<br/>with Metadata"]
+    H --> I["Cache Results\nFor Speed"]
+    I --> J["Return JSON\nwith Metadata"]
     
-    J --> K{Single or<br/>Batch?}
+    J --> K{"Single or Batch?"}
     
-    K -->|Single Email| L["Display in UI<br/>Download Excel"]
-    K -->|Batch| M["Process All Emails<br/>Show Progress"]
+    K -->|Single Email| L["Display in UI\nDownload Excel"]
+    K -->|Batch| M["Process All Emails\nShow Progress"]
     
     L --> N["End"]
     M --> N
     
-    style A fill:#e3f2fd
-    style J fill:#c8e6c9
-    style N fill:#f5f5f5
+    style A fill:#90caf9,stroke:#1e88e5,stroke-width:2px
+    style B fill:#fff59d,stroke:#fbc02d,stroke-width:2px
+    style C fill:#ffe082,stroke:#ffa000,stroke-width:2px
+    style D fill:#a5d6a7,stroke:#388e3c,stroke-width:2px
+    style E fill:#ffccbc,stroke:#d84315,stroke-width:2px
+    style F fill:#ce93d8,stroke:#6a1b9a,stroke-width:2px
+    style G fill:#80deea,stroke:#0097a7,stroke-width:2px
+    style H fill:#c5cae9,stroke:#303f9f,stroke-width:2px
+    style I fill:#b2dfdb,stroke:#00796b,stroke-width:2px
+    style J fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
+    style K fill:#ffe082,stroke:#ffa000,stroke-width:2px
+    style L fill:#fff59d,stroke:#fbc02d,stroke-width:2px
+    style M fill:#fff59d,stroke:#fbc02d,stroke-width:2px
+    style N fill:#f5f5f5,stroke:#9e9e9e,stroke-width:2px
+
 ```
 
 ## 📁 Project Structure
