@@ -1,49 +1,30 @@
+# 🦜 Email Enrichment Engine
+Automatically find companies, people, and sectors from any email address.
 
-# 🦜 Email Enrichment Engine: AI-Powered Company & People Identifier
 ---
 
-Automatically identify companies, people, and sectors from any email address using NLP, Web Scraping, and Machine Learning.
+## Overview
+Turn any email address into useful business information instantly. Just paste a single email or upload a file of emails to get:
 
+- Person's name
+- Company name
+- Business sector
+- University or free email detection
 
-Transform any email address into enriched business intelligence. Simply paste an email (or upload a spreadsheet of emails) and instantly discover:
-
-- Associated company  
-- Person's name  
-- Business sector  
-- Whether it's from a university or a free email service  
-
-This tool leverages advanced **NLP**, **web scraping**, and **machine learning** to deliver accurate results in seconds.
+Built with NLP, web scraping, and machine learning for fast and accurate results.
 
 ---
 
 ## ✨ Features
-
-- **Single Email Enrichment**  
-  Paste any email address and get instant results with company details, person's name, and business sector.
-
-- **Bulk Processing**  
-  Upload CSV or Excel files containing hundreds or thousands of emails and enrich them all at once.
-
-- **Smart Name Extraction**  
-  Uses NLP to intelligently parse names from email usernames (e.g., `john.doe@company.com` → "John Doe").
-
-- **Company Detection**  
-  Automatically identifies the company associated with a domain and retrieves company information through web scraping.
-
-- **University Recognition**  
-  Detects educational institution emails and classifies them separately.
-
-- **Business Sector Classification**  
-  Categorizes companies by industry (Technology, Finance, Healthcare, etc.).
-
-- **Domain Type Detection**  
-  Identifies free webmail services (Gmail, Yahoo, Outlook) versus company and university domains using GloVe word embeddings.
-
-- **Excel Export**  
-  Download all enriched results as professional Excel spreadsheets.
-
-- **Real-Time Logging**  
-  Track everything happening behind the scenes through detailed logs.
+- **Single Email Lookup** – Quickly enrich any email with company and person info.
+- **Bulk Email Processing** – Upload CSV/Excel to process hundreds of emails at once.
+- **Smart Name Parsing** – Extracts names from email addresses intelligently.
+- **Company Detection** – Finds the company behind the email domain.
+- **University Recognition** – Recognizes educational emails.
+- **Industry Classification** – Categorizes companies by sector (Tech, Finance, etc.).
+- **Free Email Detection** – Identifies Gmail, Yahoo, Outlook, and other free domains.
+- **Excel Export** – Download enriched data for reports or analysis.
+- **Real-Time Logs** – See detailed logs of processing steps.
 
 ---
 ## 📝 Step-by-Step Breakdown
@@ -135,7 +116,7 @@ cd email-enrichment-engine
 # Create environment
 
 python -m venv venv
-# or if you wanted a anaconda enviroemnt
+# or if you wanted a anaconda environment 
 conda create -p .vnv python==3.10 -y
 
 # Activate it
@@ -190,18 +171,6 @@ If not, navigate there manually.
 - **Academic Research:** Classify email domains by institution type.  
 - **Email Verification:** Confirm if emails belong to real companies or free services.  
 - **Market Analysis:** Analyze which sectors dominate your email list.  
-
----
-
-## 🚀 Future Roadmap
-
-- **API Endpoint:** REST API for programmatic access.  
-- **Database Integration:** Direct export to SQL/NoSQL databases.  
-- **Advanced ML Models:** Better person name extraction using deep learning.  
-- **Multi-Language Support:** Summarize content in 10+ languages.  
-- **Email Verification:** Real-time email validation and deliverability checks.  
-- **Historical Analytics:** Dashboard showing enrichment trends over time.  
-- **Custom Sectors:** Allow users to define custom business sector categories.  
 
 ---
 
