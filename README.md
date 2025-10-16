@@ -115,7 +115,7 @@ Each enriched email returns **complete metadata** in a structured JSON format:
     "company": "High"
   }
 }
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
