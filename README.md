@@ -36,9 +36,6 @@ This tool leverages advanced **NLP**, **web scraping**, and **machine learning**
 - **Domain Type Detection**  
   Identifies free webmail services (Gmail, Yahoo, Outlook) versus company and university domains using GloVe word embeddings.
 
-- **Smart Caching**  
-  Remembers previous lookups to deliver faster results on repeated domains.
-
 - **Excel Export**  
   Download all enriched results as professional Excel spreadsheets.
 
