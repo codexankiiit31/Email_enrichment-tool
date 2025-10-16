@@ -135,7 +135,7 @@ graph LR
     style N fill:#f5f5f5
 ```
 
-##📁 Project Structure
+## 📁 Project Structure
 ```
 email-enrichment-engine/
 ├── app.py                       # Main Streamlit application
