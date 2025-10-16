@@ -1,5 +1,9 @@
 
-# 🦜 Email Enrichment Engine: Automatically Identify Companies & People
+# 🦜 Email Enrichment Engine: AI-Powered Company & People Identifier
+---
+
+Automatically identify companies, people, and sectors from any email address using NLP, Web Scraping, and Machine Learning.
+
 
 Transform any email address into enriched business intelligence. Simply paste an email (or upload a spreadsheet of emails) and instantly discover:
 
